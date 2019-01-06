@@ -1,11 +1,7 @@
-# BitcoinTicker
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Bitcoin Ticker App
+# Bitcoin Currency
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
-Pro: Git clone to your Xcode projects folder.
+Starter project for the Bitcoin challenge https://www.appbrewery.co/p/how-to-make-app-ios Copyright © The App Brewery
 
 ## Finished App
 ![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
 
-Copyright © The App Brewery
